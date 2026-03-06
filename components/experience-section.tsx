@@ -2,7 +2,7 @@ const experiences = [
     {
         role: "Full-Stack Developer (MERN)",
         company: "Sphiderass Web Limited",
-        period: "November 2023 – Present",
+        period: "January 2024 – Present",
         points: [
             "Implemented RESTful APIs and integrated databases and external services.",
             "Collaborated with frontend teams on API integrations and application flows.",
@@ -22,7 +22,7 @@ const experiences = [
     {
         role: "Backend Developer",
         company: "Trusoft Limited",
-        period: "April 2023 – July 2023",
+        period: "April 2023 – November 2023",
         points: [
             "Designed, developed, and maintained software applications, databases, and APIs.",
             "Tested and debugged backend systems for reliability and performance.",
